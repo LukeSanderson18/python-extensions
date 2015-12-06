@@ -198,3 +198,5 @@ FakesAssemblies/
 *.exp
 python-extensions/test/extension.lib
 *.pyd
+*.iobj
+python-extensions/test/extension.ipdb
